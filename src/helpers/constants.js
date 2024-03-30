@@ -1,0 +1,1 @@
+export const weapons = [{name: "Rock", value: 1}, {name:  "Paper", value: 2}, {name: "Scissors", value: 3}, {name: "Spock", value: 4}, {name: "Lizard", value: 5}]
