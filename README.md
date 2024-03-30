@@ -1,6 +1,6 @@
 # Rock Paper Scissors Lizard Spock
 > RPS game with additional weapons inspired by Big Bang Theory series builded on Ethereum blockchain.
-> Live demo link [_here_](https://www.example.com).
+> Live demo link [_here_](https://rps-snowy-zeta.vercel.app/).
 
 ## Table of Contents
 * [Technologies Used](#technologies-used)
