@@ -27,6 +27,8 @@ Please make sure that your node version > 16
 
 You can check dev-build on [http://localhost:3000](http://localhost:3000)
 
+To play this game you should be connected to Seplia Network.
+
 ## Areas for Improvement
 We are very appreciate your pull requests. Do not hesistate to make your contributions.
 
@@ -46,3 +48,5 @@ Areas for improvement:
 | Scissors        | -1,1 | 1,-1  | 0,0      | -1,1  | 1,-1   |
 | Spock           | 1,-1 | -1,1  | 1,-1     | 0,0   | -1,1   |
 | Lizard          | -1,1 | 1,-1  | -1,1     | 1,-1  | 0,0    |
+
+A Mixed Strategy Nash Equilibrium exists when players randomize over their strategies, making their opponent indifferent to the choice of their strategy. In RPSLS we can assume that players will randomize their choices leading to equal probability 1/5.
